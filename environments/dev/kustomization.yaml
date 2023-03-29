@@ -12,6 +12,6 @@ images:
 - digest: sha256:306edc748117fc74babee49686db911e22504349de5e0507ac013dc63a393560
   name: quay.io/dleong/vote-api
   newName: quay.io/dleong/vote-api
-- digest: sha256:bd7689c43fed9c0efc17e74ffa1a8d10ffa45a4a8d2a58bc05112114a24a980c
+- digest: sha256:e47e46c5080d2c6790df82a00cdd7f58a48344fc2218a5acfa819e8bcd0d16bb
   name: quay.io/dleong/vote-ui
   newName: quay.io/dleong/vote-ui
